@@ -1,0 +1,130 @@
+# Product Availability Lookup System — Requirements Plan
+
+> Purpose: Help staff (and optionally customers) instantly answer the question
+> **"Is this product available?"** for a catalog with many variants and vendors,
+> using **text search** and **image/scan search** (Google Lens-style).
+
+---
+
+## 1. Problem Statement
+The client carries a large number of products that come in **multiple variants**
+(size, color, model, etc.) sourced from **multiple vendors**. When a customer asks
+**"Do you have this product?"**, staff need to instantly check and answer:
+
+- ✓ Available — quantity, variant, vendor (and price/location)
+- ✗ Not available — optionally suggest a vendor who can supply it
+
+## 2. Goals
+- Give a clear **Available / Not Available** answer in 1–2 seconds.
+- Identify the exact **variant** and **vendor(s)**.
+- Support **text search** and **image/barcode scanning**.
+- Reduce lookup time and human error during customer interactions.
+
+## 3. Users / Roles
+| Role | Responsibilities |
+|------|------------------|
+| Staff / Sales | Search by text or image, view availability |
+| Inventory Manager | Manage products, variants, vendors, stock |
+| Admin | Manage users, roles, settings |
+| (Optional) Customer | Self-service lookup via kiosk / own phone |
+
+## 4. Core User Flow
+\```
+Customer asks for a product
+        │
+        ▼
+Staff searches  ──►  Text  OR  Scan barcode  OR  Take/upload photo
+        │
+        ▼
+System matches product + variant
+        │
+        ▼
+Show availability:
+  • Available ✓  → qty, variant, vendor, price/location
+  • Not available ✗ → suggest vendor who can supply / similar variant
+\```
+
+## 5. Functional Requirements
+
+### 5.1 Catalog Management
+- Create / edit / delete products.
+- Each product has **multiple variants** (attributes: size, color, model, etc.).
+- Each variant links to **one or more vendors** with vendor SKU, price, stock, location.
+- **Bulk import** via CSV/Excel.
+- Attach **images** per product/variant (required for image search).
+
+### 5.2 Text-Based Search
+- Search by name, SKU, barcode, vendor, category, or description.
+- **Fuzzy / partial matching** (handles typos and incomplete words).
+- Filters: vendor, category, variant attributes, in-stock only.
+
+### 5.3 Image / Scan Search
+- **Barcode / QR scan** → exact, fast match (recommended primary method).
+- **Photo capture or upload** → visual match (Lens-style) returning closest matches with a similarity score.
+- Works with the **device camera** on phone/tablet.
+
+### 5.4 Availability Check (the main answer)
+- Clear status: **Available / Out of Stock / Can be ordered**.
+- Show: quantity, matched variant, vendor(s), price, location.
+- If not available → suggest vendor who can supply or nearest alternative variant.
+
+### 5.5 Supporting Features
+- User login & role-based access.
+- Search history / recently viewed.
+- Audit log of catalog changes.
+- Export results (optional).
+
+## 6. Non-Functional Requirements
+- **Speed:** text < 1s; barcode instant; photo match a few seconds.
+- **Scalability:** tens of thousands of products/variants.
+- **Mobile-friendly:** camera scanning on phones/tablets.
+- **Security:** authentication, role-based permissions, encryption.
+- **Reliability:** high uptime; usable in store/warehouse conditions.
+
+## 7. Data Model (high level)
+\```
+Vendor        (id, name, contact, ...)
+Product       (id, name, category, brand, description)
+Variant       (id, product_id, attributes{size,color,...}, barcode)
+VariantVendor (variant_id, vendor_id, sku, price, stock_qty, location)
+ProductImage  (id, variant_id, image_url, image_embedding)  // for image search
+User          (id, name, role, ...)
+\```
+
+## 8. Recommended Technical Approach
+- **Frontend:** Responsive web app (works on phone/tablet/desktop) with camera capture.
+- **Backend:** REST or GraphQL API.
+- **Database:** PostgreSQL/MySQL for catalog + stock.
+- **Text search:** PostgreSQL full-text, or Meilisearch/Typesense/Elasticsearch for fuzzy search.
+- **Barcode/QR:** scanning library (fast, exact, cheap) — primary scan method.
+- **Image (visual) search:** image embeddings (e.g., CLIP) stored in a vector DB
+  (pgvector / Qdrant / Pinecone); embed the scanned photo and find nearest matches.
+
+> Recommendation: Offer **both** barcode and visual matching. Barcode is far cheaper
+> and more reliable; visual matching is the fallback when no code is available.
+
+## 9. Phased Roadmap
+- **Phase 1 (MVP):** Catalog + variants + vendors, text search, availability check, login.
+- **Phase 2:** Barcode/QR scan, bulk import, filters, search history.
+- **Phase 3:** Visual image search (embeddings + vector DB).
+- **Phase 4:** Customer self-service, vendor portal, multi-warehouse, analytics, mobile app.
+
+---
+
+## 10. Assumptions (please confirm / correct)
+> These are placeholders so the plan is complete — adjust to match the client.
+
+- **A1. Operator:** Primarily **staff** at a counter (customer self-service added later).
+- **A2. "Available" means live stock quantity**, not just "we carry it."
+- **A3. Scale:** ~10,000–50,000 products across multiple vendors.
+- **A4. When not available:** suggest a vendor who can supply it.
+- **A5. Platform:** Web app used on phone/tablet/desktop; online (not offline).
+- **A6. Stock source:** stock data managed in this system (or imported from Excel/ERP).
+
+## 11. Open Questions
+1. Who operates it — staff only, or customers too?
+2. Is live stock quantity required, and where does stock data live today?
+3. Approximate scale (products / variants / vendors)?
+4. On "not available," suggest a supplying vendor or just say no?
+5. Platform: web, mobile app, or both? Online-only or offline needed?
+6. Approximate number of users; do vendors need their own logins?

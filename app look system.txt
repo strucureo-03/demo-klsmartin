@@ -1,0 +1,176 @@
+# Development Plan — Biomedical Product Availability App (Mobile)
+
+> Goal: A **mobile app** that lets staff instantly answer **"Is this surgical/biomedical
+> product available?"** using **text search**, **barcode/UDI scanning**, and
+> **photo (visual) search**, across many variants and vendors.
+
+---
+
+## 1. Technology Decision (React for Mobile)
+
+You cannot literally "compile" a React web app into React Native — they use different
+renderers. But you reuse the same React skills. Two valid approaches:
+
+| Approach | Description | Verdict for this project |
+|----------|-------------|--------------------------|
+| **A. React Native + Expo** · | Write React (TS), builds a true native iOS/Android app | **Recommended** — native camera & barcode scanning, best performance |
+| B. React web + Capacitor | Build a React web app, wrap into native shell | Possible, but camera scanning is weaker (web view) |
+
+**Decision: React Native + Expo (TypeScript).**
+Reason: camera scanning (barcode/UDI + photo) is the core feature and must be fast and reliable.
+
+> Bonus: with Expo + **React Native Web**, the same codebase can also produce a
+> web/desktop version later (useful for a back-office catalog manager).
+
+---
+
+## 2. System Architecture
+
+\```
+┌──────────────────────────┐
+│   Mobile App (Expo RN)   │  Camera, barcode/UDI scan, text search, results
+└─────────────┬────────────┘
+              │ HTTPS (REST/GraphQL)
+              ▼
+┌──────────────────────────┐
+│      Backend API         │  Auth, catalog, availability logic
+│   (Node.js / NestJS)     │
+└───┬───────────┬──────────┘
+    │           │            │
+    ▼           ▼            ▼
+┌────────┐ ┌──────────┐ ┌───────────────────┐
+│Postgres│ │ Search    │ │ Image Embedding   │
+│+pgvector│ │(Meili/   │ │ Service (Python   │
+│catalog, │ │Typesense)│ │ + CLIP) for photo │
+│stock,   │ │fuzzy text│ │ search            │
+│lots/exp │ └──────────┘ └───────────────────┘
+└────────┘
+    ▲
+    │
+┌────────────────┐
+│ Object Storage │  Product images (S3 / Cloudinary)
+└────────────────┘
+\```
+
+**Component choices**
+- **Mobile:** Expo (React Native, TypeScript), expo-camera / VisionCamera for scanning.
+- **Backend:** Node.js with **NestJS** (structured) or Express (simpler).
+- **Database:** PostgreSQL (catalog, variants, vendors, stock, lots, expiry).
+- **Text search:** Meilisearch or Typesense (fast fuzzy/typo-tolerant search).
+- **Image search:** Python microservice running **CLIP** → embeddings stored in **pgvector**.
+- **Image storage:** S3 or Cloudinary.
+- **Auth:** JWT + role-based access (staff / manager / admin).
+
+---
+
+## 3. Core Search Strategy (biomedical-specific)
+
+Order of matching, most reliable first:
+
+\```
+1. Barcode / UDI / QR scan  ──► exact match  ✓ (most reliable for medical devices)
+2. Text search (name, REF, SKU, vendor) ──► fuzzy match ✓
+3. Photo / visual search ──► top candidates + % score ⚠️ staff confirms
+\```
+
+> Medical devices usually carry **UDI** (Device ID + lot/serial/expiry) and **REF**
+> numbers, so scanning/text is highly reliable. Visual search is a "narrow it down"
+> helper because surgical tools are shiny and look alike.
+
+---
+
+## 4. Data Model (key entities)
+
+\```
+Vendor        (id, name, contact)
+Product       (id, name, category, brand, manufacturer, description)
+Variant       (id, product_id, attributes{size,type,...}, ref_no, udi_di, barcode)
+Inventory     (variant_id, vendor_id, sku, price, stock_qty, location)
+LotBatch      (id, variant_id, lot_no, expiry_date, sterile_flag, serial_no)  // medical
+ProductImage  (id, variant_id, image_url, embedding vector)                    // photo search
+User          (id, name, role)
+SearchLog     (id, user_id, query_type, query, result, timestamp)
+\```
+
+---
+
+## 5. Phased Development Plan
+
+### Phase 0 — Setup & Design (Foundation)
+- Confirm requirements from client docs (arriving from client).
+- Set up monorepo, Git, CI/CD, environments (dev/staging/prod).
+- UI/UX wireframes for the key screens (search, scan, result, catalog admin).
+- Define API contract (endpoints / GraphQL schema).
+**Deliverable:** repo skeleton + clickable wireframes + API spec.
+
+### Phase 1 — MVP (Text Search + Availability)
+- Backend: auth, catalog/variants/vendors CRUD, availability endpoint.
+- Database schema + seed/import sample data.
+- Mobile: login, text search screen, result screen (Available / Not available + qty/vendor/variant).
+- Bulk import (CSV/Excel) for catalog.
+**Deliverable:** Working app where staff type a product and see availability.
+
+### Phase 2 — Barcode / UDI Scanning + Medical Fields
+- Mobile: camera barcode/QR/UDI scanning → exact lookup.
+- Parse UDI (Device ID + lot/expiry).
+- Add **lot/batch, expiry, sterile status** tracking and display.
+- Filters (vendor, category, in-stock), search history.
+**Deliverable:** Scan a tool's barcode/UDI → instant availability with lot/expiry.
+
+### Phase 3 — Visual (Photo) Search
+- Python CLIP service: generate embeddings for all catalog images.
+- Store embeddings in pgvector; build nearest-neighbor search endpoint.
+- Mobile: take/upload photo → show top 3–5 candidates + confidence → staff confirms.
+**Deliverable:** Google Lens-style fallback search for items without a readable code.
+
+### Phase 4 — Polish, Compliance & Release
+- Traceability/audit logs, role permissions hardening.
+- Performance tuning, offline-friendly caching (optional).
+- App Store + Play Store builds and submission (via Expo EAS).
+- (Optional) Web back-office for catalog managers via React Native Web.
+**Deliverable:** Published mobile app + admin tooling.
+
+---
+
+## 6. Rough Effort / Timeline (small team: ~2–3 devs)
+
+| Phase | Scope | Estimate |
+|-------|-------|----------|
+| Phase 0 | Setup + design | ~1–2 weeks |
+| Phase 1 | MVP text + availability | ~3–4 weeks |
+| Phase 2 | Barcode/UDI + medical fields | ~3–4 weeks |
+| Phase 3 | Visual search (CLIP + pgvector) | ~3–5 weeks |
+| Phase 4 | Polish + store release | ~2–3 weeks |
+
+> Estimates are indicative and depend on final scope, data quality, and integrations.
+
+---
+
+## 7. Suggested Repository Structure (monorepo)
+
+\```
+/app            → Expo React Native mobile app (TypeScript)
+/api            → Node.js / NestJS backend
+/image-service  → Python CLIP embedding microservice
+/packages/shared→ Shared TS types & utilities
+/infra          → Docker, CI/CD, deployment configs
+/docs           → REQUIREMENTS.md, DEVELOPMENT_PLAN.md, API spec
+\```
+
+---
+
+## 8. Key Risks & Mitigations
+- **Visual search accuracy on shiny/similar tools** → rely on barcode/UDI + text first; photo search is staff-confirmed helper.
+- **Data quality / images missing** → require good catalog photos for visual search; barcode/text works regardless.
+- **Stock data source** → confirm where live stock lives (ERP/Excel) and how to sync.
+- **Regulatory/compliance (medical)** → add lot/expiry/traceability; confirm requirements from client docs.
+
+---
+
+## 9. Open Items (pending client docs)
+1. Do products already carry barcodes / UDI / REF numbers? (confirms scan reliability)
+2. Is live stock quantity required, and from which system (ERP/Excel)?
+3. Lot/expiry/sterile tracking needed? Any compliance/traceability rules?
+4. Scale: number of products / variants / vendors.
+5. Users: internal staff only, or external (hospitals/customers)?
+6. iOS, Android, or both? Any offline use needed?
