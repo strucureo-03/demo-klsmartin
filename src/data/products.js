@@ -1,10 +1,10 @@
-// Real KLS Martin product catalog data with simulated inventory availability,
+// Real IMPL product catalog data with simulated inventory availability,
 // pricing, suppliers, and UDI information for demo simulation purposes.
 
 export const vendors = [
   {
     "id": "V-001",
-    "name": "KLS Martin North America",
+    "name": "IMPL North America",
     "rating": 4.9,
     "leadTime": "2-3 days"
   },
@@ -57,8 +57,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Scalpels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "15-315-20-07"
@@ -75,7 +75,7 @@ export const products = [
     "catalogPages": [
       17
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 150
@@ -112,8 +112,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Dissecting Knives",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Virchow",
     "refNumbers": [
       "10-002-01-07",
@@ -138,7 +138,7 @@ export const products = [
       24,
       25
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dissecting Knives manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dissecting Knives manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 210.5
@@ -218,8 +218,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Blade Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Castroviejo",
     "refNumbers": [
       "10-090-09-07",
@@ -238,7 +238,7 @@ export const products = [
     "catalogPages": [
       26
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Blade Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Blade Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 190.5
@@ -297,8 +297,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Blade Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Troutman",
     "refNumbers": [
       "10-090-09-07",
@@ -317,7 +317,7 @@ export const products = [
     "catalogPages": [
       26
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Blade Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Blade Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 205.5
@@ -375,8 +375,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Scalpel Handles",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "10-100-04-07",
@@ -404,7 +404,7 @@ export const products = [
       30,
       32
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Handles manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Handles manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 287
@@ -485,8 +485,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Scalpel Handles",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kaye",
     "refNumbers": [
       "10-100-04-07",
@@ -514,7 +514,7 @@ export const products = [
       30,
       32
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Handles manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Handles manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 302
@@ -594,8 +594,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Scalpel Blades",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "10-199-00-01",
@@ -610,7 +610,7 @@ export const products = [
     "catalogPages": [
       31
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Blades manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Blades manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 289
@@ -691,8 +691,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Disposable Scalpels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "10-285-20-04",
@@ -708,7 +708,7 @@ export const products = [
       33,
       34
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Disposable Scalpels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Disposable Scalpels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 188.5
@@ -788,8 +788,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Amputation Knives",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Liston",
     "refNumbers": [
       "10-500-19-07",
@@ -806,7 +806,7 @@ export const products = [
     "catalogPages": [
       35
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Amputation Knives manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Amputation Knives manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 172
@@ -854,8 +854,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Dermatome",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Humby",
     "refNumbers": [
       "10-878-00-07",
@@ -875,7 +875,7 @@ export const products = [
     "catalogPages": [
       36
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dermatome manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dermatome manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 204.5
@@ -955,8 +955,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Dermatome",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Schink",
     "refNumbers": [
       "10-878-00-07",
@@ -976,7 +976,7 @@ export const products = [
     "catalogPages": [
       36
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dermatome manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dermatome manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 219.5
@@ -1057,8 +1057,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Dermatome",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Silver",
     "refNumbers": [
       "10-878-00-07",
@@ -1078,7 +1078,7 @@ export const products = [
     "catalogPages": [
       36
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dermatome manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Dermatome manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 234.5
@@ -1158,8 +1158,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Deaver",
     "refNumbers": [
       "11-100-11-07",
@@ -1215,7 +1215,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 800.5
@@ -1296,8 +1296,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Doyen",
     "refNumbers": [
       "11-100-11-07",
@@ -1353,7 +1353,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 815.5
@@ -1433,8 +1433,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Iris",
     "refNumbers": [
       "11-100-11-07",
@@ -1490,7 +1490,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 725.5
@@ -1571,8 +1571,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kelly",
     "refNumbers": [
       "11-100-11-07",
@@ -1628,7 +1628,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 740.5
@@ -1708,8 +1708,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Knapp",
     "refNumbers": [
       "11-100-11-07",
@@ -1765,7 +1765,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 755.5
@@ -1846,8 +1846,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo",
     "refNumbers": [
       "11-100-11-07",
@@ -1903,7 +1903,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 770.5
@@ -1983,8 +1983,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Sims",
     "refNumbers": [
       "11-100-11-07",
@@ -2040,7 +2040,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 785.5
@@ -2121,8 +2121,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stevens",
     "refNumbers": [
       "11-100-11-07",
@@ -2178,7 +2178,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 800.5
@@ -2258,8 +2258,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Wertheim",
     "refNumbers": [
       "11-100-11-07",
@@ -2315,7 +2315,7 @@ export const products = [
       124,
       125
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 815.5
@@ -2396,8 +2396,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "11-180-15-07",
@@ -2478,7 +2478,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 1215.5
@@ -2558,8 +2558,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "De Bakey",
     "refNumbers": [
       "11-180-15-07",
@@ -2640,7 +2640,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 1230.5
@@ -2721,8 +2721,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "DeBakey",
     "refNumbers": [
       "11-180-15-07",
@@ -2803,7 +2803,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 1245.5
@@ -2883,8 +2883,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kaye",
     "refNumbers": [
       "11-180-15-07",
@@ -2965,7 +2965,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 1260.5
@@ -3046,8 +3046,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Knapp",
     "refNumbers": [
       "11-180-15-07",
@@ -3128,7 +3128,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 1275.5
@@ -3208,8 +3208,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo",
     "refNumbers": [
       "11-180-15-07",
@@ -3290,7 +3290,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 1290.5
@@ -3371,8 +3371,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Metzenbaum",
     "refNumbers": [
       "11-180-15-07",
@@ -3453,7 +3453,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 1305.5
@@ -3533,8 +3533,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Olivecrona",
     "refNumbers": [
       "11-180-15-07",
@@ -3615,7 +3615,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 1215.5
@@ -3696,8 +3696,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Salyer",
     "refNumbers": [
       "11-180-15-07",
@@ -3778,7 +3778,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 1230.5
@@ -3858,8 +3858,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Satinsky",
     "refNumbers": [
       "11-180-15-07",
@@ -3940,7 +3940,7 @@ export const products = [
       144,
       145
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 1245.5
@@ -4021,8 +4021,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Salyer",
     "refNumbers": [
       "11-339-12-07",
@@ -4042,7 +4042,7 @@ export const products = [
     "catalogPages": [
       81
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 216
@@ -4122,8 +4122,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Micro Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "11-370-01-07",
@@ -4151,7 +4151,7 @@ export const products = [
       127,
       128
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Micro Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Micro Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 365.5
@@ -4232,8 +4232,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Vascular Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "De Bakey",
     "refNumbers": [
       "11-379-45-07",
@@ -4254,7 +4254,7 @@ export const products = [
     "catalogPages": [
       94
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Vascular Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Vascular Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 239
@@ -4323,8 +4323,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Vascular Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Salyer",
     "refNumbers": [
       "11-379-45-07",
@@ -4345,7 +4345,7 @@ export const products = [
     "catalogPages": [
       94
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Vascular Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Vascular Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 254
@@ -4415,8 +4415,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Vascular Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Dietrich",
     "refNumbers": [
       "11-380-25-07",
@@ -4443,7 +4443,7 @@ export const products = [
       97,
       99
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 267
@@ -4523,8 +4523,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Vascular Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts",
     "refNumbers": [
       "11-380-25-07",
@@ -4551,7 +4551,7 @@ export const products = [
       97,
       99
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 282
@@ -4632,8 +4632,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Vascular Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts-Smith",
     "refNumbers": [
       "11-380-25-07",
@@ -4660,7 +4660,7 @@ export const products = [
       97,
       99
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 297
@@ -4740,8 +4740,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Vascular Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Taylor",
     "refNumbers": [
       "11-380-25-07",
@@ -4768,7 +4768,7 @@ export const products = [
       97,
       99
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Vascular Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 312
@@ -4849,8 +4849,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Suture Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "11-824-09-07",
@@ -4873,7 +4873,7 @@ export const products = [
     "catalogPages": [
       130
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Suture Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Suture Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 204.5
@@ -4953,8 +4953,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Wire Cutting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "11-865-12-07",
@@ -4978,7 +4978,7 @@ export const products = [
       132,
       146
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Wire Cutting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Wire Cutting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 219.5
@@ -5059,8 +5059,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Suture Instruments",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "11-914-14-07",
@@ -5090,7 +5090,7 @@ export const products = [
       466,
       468
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Suture Instruments manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Suture Instruments manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 304.5
@@ -5170,8 +5170,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "12-100-10-07",
@@ -5213,7 +5213,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 960
@@ -5294,8 +5294,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson-Brown",
     "refNumbers": [
       "12-100-10-07",
@@ -5337,7 +5337,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 975
@@ -5417,8 +5417,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "12-100-10-07",
@@ -5460,7 +5460,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 990
@@ -5541,8 +5541,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "DeBakey",
     "refNumbers": [
       "12-100-10-07",
@@ -5584,7 +5584,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 1005
@@ -5664,8 +5664,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gerald",
     "refNumbers": [
       "12-100-10-07",
@@ -5707,7 +5707,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 1020
@@ -5788,8 +5788,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gillies",
     "refNumbers": [
       "12-100-10-07",
@@ -5831,7 +5831,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 1035
@@ -5911,8 +5911,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo",
     "refNumbers": [
       "12-100-10-07",
@@ -5954,7 +5954,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 1050
@@ -6035,8 +6035,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts",
     "refNumbers": [
       "12-100-10-07",
@@ -6078,7 +6078,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 960
@@ -6158,8 +6158,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts-Smith",
     "refNumbers": [
       "12-100-10-07",
@@ -6201,7 +6201,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 975
@@ -6282,8 +6282,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Semken",
     "refNumbers": [
       "12-100-10-07",
@@ -6325,7 +6325,7 @@ export const products = [
       173,
       174
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 990
@@ -6405,8 +6405,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "12-301-10-07",
@@ -6437,7 +6437,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 417
@@ -6518,8 +6518,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson-Brown",
     "refNumbers": [
       "12-301-10-07",
@@ -6550,7 +6550,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 432
@@ -6630,8 +6630,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "12-301-10-07",
@@ -6662,7 +6662,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 447
@@ -6743,8 +6743,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gerald",
     "refNumbers": [
       "12-301-10-07",
@@ -6775,7 +6775,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 462
@@ -6855,8 +6855,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gillies",
     "refNumbers": [
       "12-301-10-07",
@@ -6887,7 +6887,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 372
@@ -6968,8 +6968,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts",
     "refNumbers": [
       "12-301-10-07",
@@ -7000,7 +7000,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 387
@@ -7080,8 +7080,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts-Smith",
     "refNumbers": [
       "12-301-10-07",
@@ -7112,7 +7112,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 402
@@ -7193,8 +7193,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Semken",
     "refNumbers": [
       "12-301-10-07",
@@ -7225,7 +7225,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 417
@@ -7305,8 +7305,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "12-301-10-07",
@@ -7337,7 +7337,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 432
@@ -7418,8 +7418,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Taylor",
     "refNumbers": [
       "12-301-10-07",
@@ -7450,7 +7450,7 @@ export const products = [
       167,
       169
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 447
@@ -7530,8 +7530,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Splinter Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "12-600-12-07",
@@ -7558,7 +7558,7 @@ export const products = [
       177,
       178
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Splinter Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Splinter Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 287
@@ -7639,8 +7639,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "13-052-04-07",
@@ -7727,7 +7727,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 1635.5
@@ -7807,8 +7807,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Backhaus",
     "refNumbers": [
       "13-052-04-07",
@@ -7895,7 +7895,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 1650.5
@@ -7976,8 +7976,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Bengolea",
     "refNumbers": [
       "13-052-04-07",
@@ -8064,7 +8064,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 1665.5
@@ -8144,8 +8144,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Bozeman",
     "refNumbers": [
       "13-052-04-07",
@@ -8232,7 +8232,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 1680.5
@@ -8313,8 +8313,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "13-052-04-07",
@@ -8401,7 +8401,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 1695.5
@@ -8481,8 +8481,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Crafoord",
     "refNumbers": [
       "13-052-04-07",
@@ -8569,7 +8569,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 1710.5
@@ -8650,8 +8650,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Crile",
     "refNumbers": [
       "13-052-04-07",
@@ -8738,7 +8738,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 1725.5
@@ -8818,8 +8818,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Dandy",
     "refNumbers": [
       "13-052-04-07",
@@ -8906,7 +8906,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 1635.5
@@ -8987,8 +8987,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "DeBakey",
     "refNumbers": [
       "13-052-04-07",
@@ -9075,7 +9075,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 1650.5
@@ -9155,8 +9155,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Finochietto",
     "refNumbers": [
       "13-052-04-07",
@@ -9243,7 +9243,7 @@ export const products = [
       244,
       245
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 1665.5
@@ -9324,8 +9324,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "15-066-01-07",
@@ -9472,7 +9472,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 345,
       "max": 2581.5
@@ -9552,8 +9552,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Balfour",
     "refNumbers": [
       "15-066-01-07",
@@ -9700,7 +9700,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 360,
       "max": 2596.5
@@ -9781,8 +9781,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Beckmann",
     "refNumbers": [
       "15-066-01-07",
@@ -9929,7 +9929,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 375,
       "max": 2611.5
@@ -10009,8 +10009,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Breisky",
     "refNumbers": [
       "15-066-01-07",
@@ -10157,7 +10157,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 390,
       "max": 2626.5
@@ -10238,8 +10238,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cloward",
     "refNumbers": [
       "15-066-01-07",
@@ -10386,7 +10386,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 300,
       "max": 2536.5
@@ -10466,8 +10466,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "15-066-01-07",
@@ -10614,7 +10614,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 315,
       "max": 2551.5
@@ -10695,8 +10695,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cooley",
     "refNumbers": [
       "15-066-01-07",
@@ -10843,7 +10843,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 330,
       "max": 2566.5
@@ -10923,8 +10923,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "15-066-01-07",
@@ -11071,7 +11071,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 345,
       "max": 2581.5
@@ -11152,8 +11152,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Deaver",
     "refNumbers": [
       "15-066-01-07",
@@ -11300,7 +11300,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 360,
       "max": 2596.5
@@ -11380,8 +11380,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Doyen",
     "refNumbers": [
       "15-066-01-07",
@@ -11528,7 +11528,7 @@ export const products = [
       376,
       377
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 375,
       "max": 2611.5
@@ -11609,8 +11609,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Clamps",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "15-910-01-07",
@@ -11622,7 +11622,7 @@ export const products = [
     "catalogPages": [
       344
     ],
-    "description": "Hemostatic and tissue-occluding clamps designed to control bleeding and secure vascular/tubular structures with minimal damage. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Hemostatic and tissue-occluding clamps designed to control bleeding and secure vascular/tubular structures with minimal damage. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 247
@@ -11669,8 +11669,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "18-510-33-07",
@@ -11714,7 +11714,7 @@ export const products = [
       405,
       407
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 696
@@ -11795,8 +11795,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cooley",
     "refNumbers": [
       "18-510-33-07",
@@ -11840,7 +11840,7 @@ export const products = [
       405,
       407
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 711
@@ -11920,8 +11920,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "De Bakey",
     "refNumbers": [
       "18-510-33-07",
@@ -11965,7 +11965,7 @@ export const products = [
       405,
       407
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 726
@@ -12046,8 +12046,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Frazier",
     "refNumbers": [
       "18-510-33-07",
@@ -12091,7 +12091,7 @@ export const products = [
       405,
       407
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 741
@@ -12171,8 +12171,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Wullstein",
     "refNumbers": [
       "18-510-33-07",
@@ -12216,7 +12216,7 @@ export const products = [
       405,
       407
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 756
@@ -12297,8 +12297,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Yasargil",
     "refNumbers": [
       "18-510-33-07",
@@ -12342,7 +12342,7 @@ export const products = [
       405,
       407
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 771
@@ -12422,8 +12422,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suture Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "18-583-08-07",
@@ -12440,7 +12440,7 @@ export const products = [
     "catalogPages": [
       402
     ],
-    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 275
@@ -12521,8 +12521,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Cannulas",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "18-630-10-07",
@@ -12547,7 +12547,7 @@ export const products = [
       404,
       406
     ],
-    "description": "Specialized tubes for fluid irrigation, suction, or gas introduction during delicate surgical procedures. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Specialized tubes for fluid irrigation, suction, or gas introduction during delicate surgical procedures. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 251.5
@@ -12627,8 +12627,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Anaesthesia",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "19-301-15-07",
@@ -12654,7 +12654,7 @@ export const products = [
       419,
       421
     ],
-    "description": "Equipment accessories and instruments assisting airway management and sterile vascular access. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Equipment accessories and instruments assisting airway management and sterile vascular access. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 214
@@ -12735,8 +12735,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "19-350-00-07",
@@ -12769,7 +12769,7 @@ export const products = [
       420,
       422
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 330,
       "max": 501.5
@@ -12849,8 +12849,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suture Instruments",
     "productType": "Suture Instruments",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "20-123-01-04",
@@ -12882,7 +12882,7 @@ export const products = [
       458,
       459
     ],
-    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Suture Instruments manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Suture Instruments manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 524
@@ -12963,8 +12963,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "20-002-15-07",
@@ -13014,7 +13014,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 1202.5
@@ -13094,8 +13094,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Bozeman",
     "refNumbers": [
       "20-002-15-07",
@@ -13145,7 +13145,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 255,
       "max": 1217.5
@@ -13226,8 +13226,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Castroviejo",
     "refNumbers": [
       "20-002-15-07",
@@ -13277,7 +13277,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 270,
       "max": 1232.5
@@ -13357,8 +13357,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Crile",
     "refNumbers": [
       "20-002-15-07",
@@ -13408,7 +13408,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 1142.5
@@ -13489,8 +13489,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Crile-Wood",
     "refNumbers": [
       "20-002-15-07",
@@ -13540,7 +13540,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 1157.5
@@ -13620,8 +13620,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "DeBakey",
     "refNumbers": [
       "20-002-15-07",
@@ -13671,7 +13671,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 1172.5
@@ -13752,8 +13752,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Finochietto",
     "refNumbers": [
       "20-002-15-07",
@@ -13803,7 +13803,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 1187.5
@@ -13883,8 +13883,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gillies",
     "refNumbers": [
       "20-002-15-07",
@@ -13934,7 +13934,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 1202.5
@@ -14015,8 +14015,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Heaney",
     "refNumbers": [
       "20-002-15-07",
@@ -14066,7 +14066,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 255,
       "max": 1217.5
@@ -14146,8 +14146,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hegar",
     "refNumbers": [
       "20-002-15-07",
@@ -14197,7 +14197,7 @@ export const products = [
       451,
       452
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 270,
       "max": 1232.5
@@ -14278,8 +14278,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Suture Instruments",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ochsner",
     "refNumbers": [
       "20-877-22-07",
@@ -14307,7 +14307,7 @@ export const products = [
       470,
       471
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Suture Instruments manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Suture Instruments manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 176
@@ -14387,8 +14387,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Suture Instruments",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "21-275-23-07",
@@ -14409,7 +14409,7 @@ export const products = [
       467,
       469
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Suture Instruments manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Suture Instruments manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 196.5
@@ -14490,8 +14490,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Suture Instruments",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "21-551-00-04",
@@ -14508,7 +14508,7 @@ export const products = [
     "catalogPages": [
       472
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Suture Instruments manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Suture Instruments manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 480,
       "max": 494
@@ -14577,8 +14577,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "23-100-08-07",
@@ -14605,7 +14605,7 @@ export const products = [
       493,
       729
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 359.5
@@ -14686,8 +14686,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Beckmann",
     "refNumbers": [
       "23-101-08-07",
@@ -14720,7 +14720,7 @@ export const products = [
       749,
       750
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 577.5
@@ -14800,8 +14800,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Salyer",
     "refNumbers": [
       "23-101-08-07",
@@ -14834,7 +14834,7 @@ export const products = [
       749,
       750
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 592.5
@@ -14915,8 +14915,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Silver",
     "refNumbers": [
       "23-101-08-07",
@@ -14949,7 +14949,7 @@ export const products = [
       749,
       750
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 607.5
@@ -15029,8 +15029,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Rongeurs",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "23-125-10-07",
@@ -15057,7 +15057,7 @@ export const products = [
       487,
       494
     ],
-    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 450,
       "max": 621.5
@@ -15138,8 +15138,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "23-136-02-07",
@@ -15175,7 +15175,7 @@ export const products = [
       502,
       728
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 465,
       "max": 825.5
@@ -15255,8 +15255,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Doyen",
     "refNumbers": [
       "23-136-02-07",
@@ -15292,7 +15292,7 @@ export const products = [
       502,
       728
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 480,
       "max": 840.5
@@ -15373,8 +15373,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Rongeurs",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "23-160-01-04",
@@ -15399,7 +15399,7 @@ export const products = [
       492,
       727
     ],
-    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 495,
       "max": 540.5
@@ -15479,8 +15479,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Curettes",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jacobson",
     "refNumbers": [
       "23-280-40-04",
@@ -15510,7 +15510,7 @@ export const products = [
       508,
       509
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 563.5
@@ -15591,8 +15591,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Curettes",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Scoville",
     "refNumbers": [
       "23-280-40-04",
@@ -15622,7 +15622,7 @@ export const products = [
       508,
       509
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 578.5
@@ -15702,8 +15702,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Curettes",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Volkmann",
     "refNumbers": [
       "23-280-40-04",
@@ -15733,7 +15733,7 @@ export const products = [
       508,
       509
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 593.5
@@ -15814,8 +15814,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "23-400-01-07",
@@ -15857,7 +15857,7 @@ export const products = [
       527,
       528
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 450,
       "max": 849
@@ -15937,8 +15937,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "23-400-01-07",
@@ -15980,7 +15980,7 @@ export const products = [
       527,
       528
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 465,
       "max": 864
@@ -16061,8 +16061,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "23-400-01-07",
@@ -16104,7 +16104,7 @@ export const products = [
       527,
       528
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 480,
       "max": 879
@@ -16184,8 +16184,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Doyen",
     "refNumbers": [
       "23-400-01-07",
@@ -16227,7 +16227,7 @@ export const products = [
       527,
       528
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 495,
       "max": 894
@@ -16308,8 +16308,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Farabeuf",
     "refNumbers": [
       "23-400-01-07",
@@ -16351,7 +16351,7 @@ export const products = [
       527,
       528
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 510,
       "max": 909
@@ -16431,8 +16431,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Langenbeck",
     "refNumbers": [
       "23-400-01-07",
@@ -16474,7 +16474,7 @@ export const products = [
       527,
       528
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 525,
       "max": 924
@@ -16555,8 +16555,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "23-563-26-07",
@@ -16586,7 +16586,7 @@ export const products = [
       705,
       706
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 390,
       "max": 519.5
@@ -16666,8 +16666,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Taylor",
     "refNumbers": [
       "23-563-26-07",
@@ -16697,7 +16697,7 @@ export const products = [
       705,
       706
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 300,
       "max": 429.5
@@ -16778,8 +16778,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Farabeuf",
     "refNumbers": [
       "23-676-15-07",
@@ -16828,7 +16828,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 534
@@ -16908,8 +16908,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ferris-Smith",
     "refNumbers": [
       "23-676-15-07",
@@ -16958,7 +16958,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 549
@@ -17039,8 +17039,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ferris-Smith-Kerrison",
     "refNumbers": [
       "23-676-15-07",
@@ -17089,7 +17089,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 564
@@ -17169,8 +17169,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hajek",
     "refNumbers": [
       "23-676-15-07",
@@ -17219,7 +17219,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 579
@@ -17300,8 +17300,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "23-676-15-07",
@@ -17350,7 +17350,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 594
@@ -17430,8 +17430,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jansen",
     "refNumbers": [
       "23-676-15-07",
@@ -17480,7 +17480,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 609
@@ -17561,8 +17561,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kerrison",
     "refNumbers": [
       "23-676-15-07",
@@ -17611,7 +17611,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 519
@@ -17691,8 +17691,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kleinert-Kutz",
     "refNumbers": [
       "23-676-15-07",
@@ -17741,7 +17741,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 534
@@ -17822,8 +17822,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Langenbeck",
     "refNumbers": [
       "23-676-15-07",
@@ -17872,7 +17872,7 @@ export const products = [
       719,
       720
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 549
@@ -17952,8 +17952,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Allis",
     "refNumbers": [
       "23-777-01-07",
@@ -17995,7 +17995,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 508
@@ -18076,8 +18076,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Babcock",
     "refNumbers": [
       "23-777-01-07",
@@ -18119,7 +18119,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 523
@@ -18199,8 +18199,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Beyer",
     "refNumbers": [
       "23-777-01-07",
@@ -18242,7 +18242,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 538
@@ -18323,8 +18323,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "23-777-01-07",
@@ -18366,7 +18366,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 553
@@ -18446,8 +18446,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jansen",
     "refNumbers": [
       "23-777-01-07",
@@ -18489,7 +18489,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 463
@@ -18570,8 +18570,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kocher",
     "refNumbers": [
       "23-777-01-07",
@@ -18613,7 +18613,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 478
@@ -18693,8 +18693,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Leksell",
     "refNumbers": [
       "23-777-01-07",
@@ -18736,7 +18736,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 493
@@ -18817,8 +18817,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Liston",
     "refNumbers": [
       "23-777-01-07",
@@ -18860,7 +18860,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 508
@@ -18940,8 +18940,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "23-777-01-07",
@@ -18983,7 +18983,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 523
@@ -19064,8 +19064,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille-Luer",
     "refNumbers": [
       "23-777-01-07",
@@ -19107,7 +19107,7 @@ export const products = [
       580,
       581
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 538
@@ -19187,8 +19187,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "27-125-16-07",
@@ -19211,7 +19211,7 @@ export const products = [
     "catalogPages": [
       571
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 390,
       "max": 411
@@ -19292,8 +19292,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "30-210-18-07",
@@ -19367,7 +19367,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 858.5
@@ -19447,8 +19447,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Doyen",
     "refNumbers": [
       "30-210-18-07",
@@ -19522,7 +19522,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 873.5
@@ -19603,8 +19603,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "30-210-18-07",
@@ -19678,7 +19678,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 888.5
@@ -19758,8 +19758,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jansen",
     "refNumbers": [
       "30-210-18-07",
@@ -19833,7 +19833,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 903.5
@@ -19914,8 +19914,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kelly",
     "refNumbers": [
       "30-210-18-07",
@@ -19989,7 +19989,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 918.5
@@ -20069,8 +20069,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kocher",
     "refNumbers": [
       "30-210-18-07",
@@ -20144,7 +20144,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 933.5
@@ -20225,8 +20225,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mathieu",
     "refNumbers": [
       "30-210-18-07",
@@ -20300,7 +20300,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 948.5
@@ -20380,8 +20380,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo",
     "refNumbers": [
       "30-210-18-07",
@@ -20455,7 +20455,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 858.5
@@ -20536,8 +20536,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mixter",
     "refNumbers": [
       "30-210-18-07",
@@ -20611,7 +20611,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 873.5
@@ -20691,8 +20691,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Wullstein",
     "refNumbers": [
       "30-210-18-07",
@@ -20766,7 +20766,7 @@ export const products = [
       694,
       695
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 888.5
@@ -20847,8 +20847,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Clamps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Castroviejo",
     "refNumbers": [
       "30-419-21-07",
@@ -20876,7 +20876,7 @@ export const products = [
       666,
       667
     ],
-    "description": "Hemostatic and tissue-occluding clamps designed to control bleeding and secure vascular/tubular structures with minimal damage. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Hemostatic and tissue-occluding clamps designed to control bleeding and secure vascular/tubular structures with minimal damage. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 310.5
@@ -20956,8 +20956,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Clamps",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "30-419-21-07",
@@ -20985,7 +20985,7 @@ export const products = [
       666,
       667
     ],
-    "description": "Hemostatic and tissue-occluding clamps designed to control bleeding and secure vascular/tubular structures with minimal damage. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Hemostatic and tissue-occluding clamps designed to control bleeding and secure vascular/tubular structures with minimal damage. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 325.5
@@ -21066,8 +21066,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Auvard",
     "refNumbers": [
       "30-610-21-07",
@@ -21118,7 +21118,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 375,
       "max": 1334
@@ -21198,8 +21198,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Breisky",
     "refNumbers": [
       "30-610-21-07",
@@ -21250,7 +21250,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 390,
       "max": 1349
@@ -21331,8 +21331,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "30-610-21-07",
@@ -21383,7 +21383,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 300,
       "max": 1259
@@ -21463,8 +21463,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Doyen",
     "refNumbers": [
       "30-610-21-07",
@@ -21515,7 +21515,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 315,
       "max": 1274
@@ -21596,8 +21596,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "30-610-21-07",
@@ -21648,7 +21648,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 330,
       "max": 1289
@@ -21728,8 +21728,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hegar",
     "refNumbers": [
       "30-610-21-07",
@@ -21780,7 +21780,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 345,
       "max": 1304
@@ -21861,8 +21861,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kelly",
     "refNumbers": [
       "30-610-21-07",
@@ -21913,7 +21913,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 360,
       "max": 1319
@@ -21993,8 +21993,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Sims",
     "refNumbers": [
       "30-610-21-07",
@@ -22045,7 +22045,7 @@ export const products = [
       687,
       688
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 375,
       "max": 1334
@@ -22126,8 +22126,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Urology",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "31-170-01-01",
@@ -22153,7 +22153,7 @@ export const products = [
       617,
       618
     ],
-    "description": "Precision instruments optimized for bladder, kidney, and urethral surgeries. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision instruments optimized for bladder, kidney, and urethral surgeries. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 320.5
@@ -22233,8 +22233,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Gynecology",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hegar",
     "refNumbers": [
       "32-430-02-01",
@@ -22258,7 +22258,7 @@ export const products = [
       639,
       640
     ],
-    "description": "Surgical instruments tailored for obstetric and gynecological examinations and operative procedures. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Surgical instruments tailored for obstetric and gynecological examinations and operative procedures. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 241
@@ -22339,8 +22339,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Gynecology",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Sims",
     "refNumbers": [
       "32-430-02-01",
@@ -22364,7 +22364,7 @@ export const products = [
       639,
       640
     ],
-    "description": "Surgical instruments tailored for obstetric and gynecological examinations and operative procedures. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Surgical instruments tailored for obstetric and gynecological examinations and operative procedures. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 256
@@ -22444,8 +22444,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Doyen",
     "refNumbers": [
       "32-758-17-07",
@@ -22470,7 +22470,7 @@ export const products = [
       646,
       681
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 229
@@ -22551,8 +22551,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Wullstein",
     "refNumbers": [
       "32-758-17-07",
@@ -22577,7 +22577,7 @@ export const products = [
       646,
       681
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 244
@@ -22657,8 +22657,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Curettes",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Sims",
     "refNumbers": [
       "32-825-23-01",
@@ -22688,7 +22688,7 @@ export const products = [
       663,
       685
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 609
@@ -22769,8 +22769,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Wullstein",
     "refNumbers": [
       "36-005-01-14",
@@ -22790,7 +22790,7 @@ export const products = [
       676,
       677
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 251
@@ -22870,8 +22870,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suture Instruments",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "36-025-01-07",
@@ -22892,7 +22892,7 @@ export const products = [
     "catalogPages": [
       683
     ],
-    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 282
@@ -22973,8 +22973,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Otology",
     "productType": "Intestinal Clamps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "36-180-10-04",
@@ -23000,7 +23000,7 @@ export const products = [
       691,
       692
     ],
-    "description": "Micro-instruments specialized for middle ear and auditory surgeries. Professional Intestinal Clamps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Micro-instruments specialized for middle ear and auditory surgeries. Professional Intestinal Clamps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 290
@@ -23080,8 +23080,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Bone Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Beyer",
     "refNumbers": [
       "36-461-17-07",
@@ -23099,7 +23099,7 @@ export const products = [
       696,
       697
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 145.5
@@ -23158,8 +23158,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Curettes",
     "productType": "Bone Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "36-495-02-07",
@@ -23184,7 +23184,7 @@ export const products = [
       698,
       699
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Bone Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Bone Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 288.5
@@ -23264,8 +23264,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Curettes",
     "productType": "Bone Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jansen",
     "refNumbers": [
       "36-495-02-07",
@@ -23290,7 +23290,7 @@ export const products = [
       698,
       699
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Bone Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Bone Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 303.5
@@ -23371,8 +23371,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suture Instruments",
     "productType": "Bone Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "36-585-01-07",
@@ -23396,7 +23396,7 @@ export const products = [
     "catalogPages": [
       700
     ],
-    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Bone Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Bone Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 259
@@ -23476,8 +23476,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Curettes",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "36-743-50-07",
@@ -23501,7 +23501,7 @@ export const products = [
     "catalogPages": [
       701
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 249.5
@@ -23582,8 +23582,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scalpels",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "37-440-01-07",
@@ -23608,7 +23608,7 @@ export const products = [
       721,
       722
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 292.5
@@ -23688,8 +23688,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Rhinology",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hajek",
     "refNumbers": [
       "37-521-04-07",
@@ -23716,7 +23716,7 @@ export const products = [
       725,
       726
     ],
-    "description": "Delicate instruments designed for nasal cartilage and sinus surgical work. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Delicate instruments designed for nasal cartilage and sinus surgical work. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 234
@@ -23797,8 +23797,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Bone Instruments",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "37-632-20-07",
@@ -23827,7 +23827,7 @@ export const products = [
       735,
       736
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 465,
       "max": 573.5
@@ -23907,8 +23907,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Rhinology",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "37-686-16-07",
@@ -23932,7 +23932,7 @@ export const products = [
     "catalogPages": [
       737
     ],
-    "description": "Delicate instruments designed for nasal cartilage and sinus surgical work. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Delicate instruments designed for nasal cartilage and sinus surgical work. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 211.5
@@ -24013,8 +24013,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "37-698-10-07",
@@ -24045,7 +24045,7 @@ export const products = [
       788,
       789
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 345,
       "max": 541
@@ -24125,8 +24125,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "37-724-01-07",
@@ -24180,7 +24180,7 @@ export const products = [
       818,
       819
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 16542.5
@@ -24261,8 +24261,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo",
     "refNumbers": [
       "37-724-01-07",
@@ -24316,7 +24316,7 @@ export const products = [
       818,
       819
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 16557.5
@@ -24396,8 +24396,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Forceps",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Sauerbruch",
     "refNumbers": [
       "37-724-01-07",
@@ -24451,7 +24451,7 @@ export const products = [
       818,
       819
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 16572.5
@@ -24532,8 +24532,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Scissors",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "54-301-10-07",
@@ -24557,7 +24557,7 @@ export const products = [
       767,
       768
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 162
@@ -24637,8 +24637,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Suture Instruments",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Sauerbruch",
     "refNumbers": [
       "55-162-20-01",
@@ -24664,7 +24664,7 @@ export const products = [
       774,
       775
     ],
-    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Instruments designed to facilitate tissue closure, suturing, and knot tying in various operating theater setups. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 203.5
@@ -24745,8 +24745,8 @@ export const products = [
     "catalog": "general-surgery",
     "category": "Retractors",
     "productType": "Dermatome",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "90-100-48-07"
@@ -24757,7 +24757,7 @@ export const products = [
     "catalogPages": [
       872
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Dermatome manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Dermatome manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 330,
       "max": 330
@@ -24793,8 +24793,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "General",
     "productType": "General",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Salyer",
     "refNumbers": [
       "11-339-12-07",
@@ -24806,7 +24806,7 @@ export const products = [
     "catalogPages": [
       17
     ],
-    "description": "Multi-purpose general operating theater tools and accessories. Professional General manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Multi-purpose general operating theater tools and accessories. Professional General manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 202
@@ -24854,8 +24854,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "General",
     "productType": "General",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Silver",
     "refNumbers": [
       "11-339-12-07",
@@ -24867,7 +24867,7 @@ export const products = [
     "catalogPages": [
       17
     ],
-    "description": "Multi-purpose general operating theater tools and accessories. Professional General manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Multi-purpose general operating theater tools and accessories. Professional General manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 217
@@ -24914,8 +24914,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cooley",
     "refNumbers": [
       "13-316-18-07",
@@ -24938,7 +24938,7 @@ export const products = [
     "catalogPages": [
       18
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 223
@@ -25019,8 +25019,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "De Bakey",
     "refNumbers": [
       "13-316-18-07",
@@ -25043,7 +25043,7 @@ export const products = [
     "catalogPages": [
       18
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 238
@@ -25123,8 +25123,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mosquito",
     "refNumbers": [
       "13-316-18-07",
@@ -25147,7 +25147,7 @@ export const products = [
     "catalogPages": [
       18
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 148
@@ -25228,8 +25228,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Laminectomy Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ferris-Smith",
     "refNumbers": [
       "24-978-01-07",
@@ -25267,7 +25267,7 @@ export const products = [
       43,
       45
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Laminectomy Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Laminectomy Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 1381
@@ -25347,8 +25347,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Laminectomy Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ferris-Smith-Kerrison",
     "refNumbers": [
       "24-978-01-07",
@@ -25386,7 +25386,7 @@ export const products = [
       43,
       45
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Laminectomy Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Laminectomy Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 1396
@@ -25467,8 +25467,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Laminectomy Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kerrison",
     "refNumbers": [
       "24-978-01-07",
@@ -25506,7 +25506,7 @@ export const products = [
       43,
       45
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Laminectomy Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Laminectomy Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 1411
@@ -25586,8 +25586,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "24-981-05-07",
@@ -25611,7 +25611,7 @@ export const products = [
       42,
       44
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 418
@@ -25692,8 +25692,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Pituitary Instruments",
     "productType": "Laminectomy Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "24-843-01-07",
@@ -25713,7 +25713,7 @@ export const products = [
       53,
       54
     ],
-    "description": "Specialized micro-instruments for neurosurgical pituitary procedures, designed to traverse narrow surgical corridors safely. Professional Laminectomy Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Specialized micro-instruments for neurosurgical pituitary procedures, designed to traverse narrow surgical corridors safely. Professional Laminectomy Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 675,
       "max": 916.5
@@ -25793,8 +25793,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Laminectomy Punches",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "24-844-80-07",
@@ -25812,7 +25812,7 @@ export const products = [
     "catalogPages": [
       52
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Laminectomy Punches manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Laminectomy Punches manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 238
@@ -25893,8 +25893,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Pituitary Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Yasargil",
     "refNumbers": [
       "24-855-10-07",
@@ -25919,7 +25919,7 @@ export const products = [
       55,
       56
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Pituitary Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Pituitary Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 137.5
@@ -25999,8 +25999,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Pituitary Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "24-998-08-07",
@@ -26025,7 +26025,7 @@ export const products = [
       57,
       58
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Pituitary Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Pituitary Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 315,
       "max": 343
@@ -26106,8 +26106,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Micro Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jacobson",
     "refNumbers": [
       "11-370-01-07",
@@ -26136,7 +26136,7 @@ export const products = [
       67,
       68
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Micro Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Micro Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 370.5
@@ -26216,8 +26216,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Micro Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Yasargil",
     "refNumbers": [
       "11-370-01-07",
@@ -26246,7 +26246,7 @@ export const products = [
       67,
       68
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Micro Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Micro Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 385.5
@@ -26327,8 +26327,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "11-758-12-07",
@@ -26383,7 +26383,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 918.5
@@ -26463,8 +26463,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "DeBakey",
     "refNumbers": [
       "11-758-12-07",
@@ -26519,7 +26519,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 933.5
@@ -26600,8 +26600,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo",
     "refNumbers": [
       "11-758-12-07",
@@ -26656,7 +26656,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 948.5
@@ -26736,8 +26736,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Metzenbaum",
     "refNumbers": [
       "11-758-12-07",
@@ -26792,7 +26792,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 858.5
@@ -26873,8 +26873,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Olivecrona",
     "refNumbers": [
       "11-758-12-07",
@@ -26929,7 +26929,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 873.5
@@ -27009,8 +27009,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "11-758-12-07",
@@ -27065,7 +27065,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 888.5
@@ -27146,8 +27146,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Taylor",
     "refNumbers": [
       "11-758-12-07",
@@ -27202,7 +27202,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 903.5
@@ -27282,8 +27282,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Toennis",
     "refNumbers": [
       "11-758-12-07",
@@ -27338,7 +27338,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 918.5
@@ -27419,8 +27419,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Dissecting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Toennis-Adson",
     "refNumbers": [
       "11-758-12-07",
@@ -27475,7 +27475,7 @@ export const products = [
       148,
       149
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Dissecting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 933.5
@@ -27555,8 +27555,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Micro Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Yasargil",
     "refNumbers": [
       "12-552-01-07",
@@ -27584,7 +27584,7 @@ export const products = [
       73,
       74
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Micro Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Micro Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 661.5
@@ -27665,8 +27665,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Castroviejo",
     "refNumbers": [
       "20-002-15-07",
@@ -27707,7 +27707,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 869.5
@@ -27787,8 +27787,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Crile",
     "refNumbers": [
       "20-002-15-07",
@@ -27829,7 +27829,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 884.5
@@ -27910,8 +27910,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Crile-Wood",
     "refNumbers": [
       "20-002-15-07",
@@ -27952,7 +27952,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 899.5
@@ -28032,8 +28032,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "DeBakey",
     "refNumbers": [
       "20-002-15-07",
@@ -28074,7 +28074,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 914.5
@@ -28155,8 +28155,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Frazier",
     "refNumbers": [
       "20-002-15-07",
@@ -28197,7 +28197,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 929.5
@@ -28277,8 +28277,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Heaney",
     "refNumbers": [
       "20-002-15-07",
@@ -28319,7 +28319,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 255,
       "max": 944.5
@@ -28400,8 +28400,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hegar",
     "refNumbers": [
       "20-002-15-07",
@@ -28442,7 +28442,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 270,
       "max": 959.5
@@ -28522,8 +28522,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo",
     "refNumbers": [
       "20-002-15-07",
@@ -28564,7 +28564,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 869.5
@@ -28645,8 +28645,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mayo-Hegar",
     "refNumbers": [
       "20-002-15-07",
@@ -28687,7 +28687,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 884.5
@@ -28767,8 +28767,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Needle Holders",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ryder",
     "refNumbers": [
       "20-002-15-07",
@@ -28809,7 +28809,7 @@ export const products = [
       270,
       271
     ],
-    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Secure needle gripping mechanism to facilitate precise suturing. Available with tungsten carbide inserts for enhanced grip. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 899.5
@@ -28890,8 +28890,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jacobson",
     "refNumbers": [
       "24-853-01-07",
@@ -28923,7 +28923,7 @@ export const products = [
       96,
       97
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 525.5
@@ -29003,8 +29003,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Rhoton",
     "refNumbers": [
       "24-853-01-07",
@@ -29036,7 +29036,7 @@ export const products = [
       96,
       97
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 540.5
@@ -29117,8 +29117,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Yasargil",
     "refNumbers": [
       "24-853-01-07",
@@ -29150,7 +29150,7 @@ export const products = [
       96,
       97
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 555.5
@@ -29230,8 +29230,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scalpels",
     "productType": "Scalpel Handles",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "10-100-04-07",
@@ -29254,7 +29254,7 @@ export const products = [
       102,
       103
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Handles manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Handles manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 264.5
@@ -29335,8 +29335,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scalpels",
     "productType": "Scalpel Blades",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "10-199-00-01",
@@ -29351,7 +29351,7 @@ export const products = [
     "catalogPages": [
       104
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Blades manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Scalpel Blades manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 195.5
@@ -29431,8 +29431,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scalpels",
     "productType": "Disposable Scalpels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "10-285-18-04",
@@ -29448,7 +29448,7 @@ export const products = [
       105,
       106
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Disposable Scalpels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Disposable Scalpels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 200
@@ -29529,8 +29529,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Deaver",
     "refNumbers": [
       "11-100-11-07",
@@ -29569,7 +29569,7 @@ export const products = [
       153,
       158
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 426.5
@@ -29649,8 +29649,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Iris",
     "refNumbers": [
       "11-100-11-07",
@@ -29689,7 +29689,7 @@ export const products = [
       153,
       158
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 441.5
@@ -29770,8 +29770,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kelly",
     "refNumbers": [
       "11-100-11-07",
@@ -29810,7 +29810,7 @@ export const products = [
       153,
       158
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 456.5
@@ -29890,8 +29890,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Knapp",
     "refNumbers": [
       "11-100-11-07",
@@ -29930,7 +29930,7 @@ export const products = [
       153,
       158
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 471.5
@@ -30011,8 +30011,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Metzenbaum",
     "refNumbers": [
       "11-100-11-07",
@@ -30051,7 +30051,7 @@ export const products = [
       153,
       158
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 486.5
@@ -30131,8 +30131,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Operating Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stevens",
     "refNumbers": [
       "11-100-11-07",
@@ -30171,7 +30171,7 @@ export const products = [
       153,
       158
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Operating Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 396.5
@@ -30252,8 +30252,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Wire Cutting Scissors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "11-865-12-07",
@@ -30271,7 +30271,7 @@ export const products = [
     "catalogPages": [
       154
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Wire Cutting Scissors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Wire Cutting Scissors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 142
@@ -30318,8 +30318,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Suture Instruments",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "11-914-14-07",
@@ -30344,7 +30344,7 @@ export const products = [
       156,
       157
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Suture Instruments manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Suture Instruments manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 199
@@ -30425,8 +30425,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "12-100-10-07",
@@ -30455,7 +30455,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 357.5
@@ -30535,8 +30535,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson-Brown",
     "refNumbers": [
       "12-100-10-07",
@@ -30565,7 +30565,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 372.5
@@ -30646,8 +30646,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "12-100-10-07",
@@ -30676,7 +30676,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 387.5
@@ -30756,8 +30756,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gerald",
     "refNumbers": [
       "12-100-10-07",
@@ -30786,7 +30786,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 402.5
@@ -30867,8 +30867,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts",
     "refNumbers": [
       "12-100-10-07",
@@ -30897,7 +30897,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 312.5
@@ -30977,8 +30977,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts-Smith",
     "refNumbers": [
       "12-100-10-07",
@@ -31007,7 +31007,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 327.5
@@ -31088,8 +31088,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Semken",
     "refNumbers": [
       "12-100-10-07",
@@ -31118,7 +31118,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 342.5
@@ -31198,8 +31198,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Anatomical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Taylor",
     "refNumbers": [
       "12-100-10-07",
@@ -31228,7 +31228,7 @@ export const products = [
       164,
       165
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Anatomical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 357.5
@@ -31309,8 +31309,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "12-301-10-07",
@@ -31344,7 +31344,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 498.5
@@ -31424,8 +31424,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson-Brown",
     "refNumbers": [
       "12-301-10-07",
@@ -31459,7 +31459,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 513.5
@@ -31540,8 +31540,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "De Bakey",
     "refNumbers": [
       "12-301-10-07",
@@ -31575,7 +31575,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 528.5
@@ -31655,8 +31655,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gerald",
     "refNumbers": [
       "12-301-10-07",
@@ -31690,7 +31690,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 438.5
@@ -31771,8 +31771,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gillies",
     "refNumbers": [
       "12-301-10-07",
@@ -31806,7 +31806,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 453.5
@@ -31886,8 +31886,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jansen",
     "refNumbers": [
       "12-301-10-07",
@@ -31921,7 +31921,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 468.5
@@ -32002,8 +32002,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ochsner",
     "refNumbers": [
       "12-301-10-07",
@@ -32037,7 +32037,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 483.5
@@ -32117,8 +32117,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts",
     "refNumbers": [
       "12-301-10-07",
@@ -32152,7 +32152,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 498.5
@@ -32233,8 +32233,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Potts-Smith",
     "refNumbers": [
       "12-301-10-07",
@@ -32268,7 +32268,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 513.5
@@ -32348,8 +32348,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Surgical Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Semken",
     "refNumbers": [
       "12-301-10-07",
@@ -32383,7 +32383,7 @@ export const products = [
       176,
       177
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Surgical Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 528.5
@@ -32464,8 +32464,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "13-303-01-07",
@@ -32501,7 +32501,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 515.5
@@ -32581,8 +32581,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Backhaus",
     "refNumbers": [
       "13-303-01-07",
@@ -32618,7 +32618,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 530.5
@@ -32699,8 +32699,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Crile",
     "refNumbers": [
       "13-303-01-07",
@@ -32736,7 +32736,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 545.5
@@ -32816,8 +32816,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Dandy",
     "refNumbers": [
       "13-303-01-07",
@@ -32853,7 +32853,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 560.5
@@ -32934,8 +32934,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Halsted",
     "refNumbers": [
       "13-303-01-07",
@@ -32971,7 +32971,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 575.5
@@ -33051,8 +33051,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kelly",
     "refNumbers": [
       "13-303-01-07",
@@ -33088,7 +33088,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 590.5
@@ -33169,8 +33169,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kocher",
     "refNumbers": [
       "13-303-01-07",
@@ -33206,7 +33206,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 605.5
@@ -33286,8 +33286,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mixter",
     "refNumbers": [
       "13-303-01-07",
@@ -33323,7 +33323,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 515.5
@@ -33404,8 +33404,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Mosquito",
     "refNumbers": [
       "13-303-01-07",
@@ -33441,7 +33441,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 530.5
@@ -33521,8 +33521,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Artery Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Ochsner",
     "refNumbers": [
       "13-303-01-07",
@@ -33558,7 +33558,7 @@ export const products = [
       189,
       190
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Artery Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 545.5
@@ -33639,8 +33639,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "15-066-01-07",
@@ -33712,7 +33712,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 345,
       "max": 1482.5
@@ -33792,8 +33792,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Beckmann",
     "refNumbers": [
       "15-066-01-07",
@@ -33865,7 +33865,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 360,
       "max": 1497.5
@@ -33946,8 +33946,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cloward",
     "refNumbers": [
       "15-066-01-07",
@@ -34019,7 +34019,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 375,
       "max": 1512.5
@@ -34099,8 +34099,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "15-066-01-07",
@@ -34172,7 +34172,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 390,
       "max": 1527.5
@@ -34253,8 +34253,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Frazier",
     "refNumbers": [
       "15-066-01-07",
@@ -34326,7 +34326,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 300,
       "max": 1437.5
@@ -34406,8 +34406,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gelpi",
     "refNumbers": [
       "15-066-01-07",
@@ -34479,7 +34479,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 315,
       "max": 1452.5
@@ -34560,8 +34560,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jansen",
     "refNumbers": [
       "15-066-01-07",
@@ -34633,7 +34633,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 330,
       "max": 1467.5
@@ -34713,8 +34713,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Kocher",
     "refNumbers": [
       "15-066-01-07",
@@ -34786,7 +34786,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 345,
       "max": 1482.5
@@ -34867,8 +34867,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Langenbeck",
     "refNumbers": [
       "15-066-01-07",
@@ -34940,7 +34940,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 360,
       "max": 1497.5
@@ -35020,8 +35020,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Scoville",
     "refNumbers": [
       "15-066-01-07",
@@ -35093,7 +35093,7 @@ export const products = [
       243,
       244
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 375,
       "max": 1512.5
@@ -35174,8 +35174,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Retractors",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "15-814-10-07",
@@ -35200,7 +35200,7 @@ export const products = [
       229,
       239
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Retractors manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Retractors manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 297.5
@@ -35280,8 +35280,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Retractors",
     "productType": "Brain Spatulas",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "24-702-01-07",
@@ -35297,7 +35297,7 @@ export const products = [
       240,
       242
     ],
-    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Brain Spatulas manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Provides optimal surgical field visibility. Self-retaining and manual designs engineered for stability and ergonomic control. Professional Brain Spatulas manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 300,
       "max": 345.5
@@ -35378,8 +35378,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "18-523-06-01",
@@ -35415,7 +35415,7 @@ export const products = [
       261,
       263
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 553.5
@@ -35495,8 +35495,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "De Bakey",
     "refNumbers": [
       "18-523-06-01",
@@ -35532,7 +35532,7 @@ export const products = [
       261,
       263
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 568.5
@@ -35613,8 +35613,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Frazier",
     "refNumbers": [
       "18-523-06-01",
@@ -35650,7 +35650,7 @@ export const products = [
       261,
       263
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 583.5
@@ -35730,8 +35730,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Wullstein",
     "refNumbers": [
       "18-523-06-01",
@@ -35767,7 +35767,7 @@ export const products = [
       261,
       263
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 598.5
@@ -35848,8 +35848,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Suction Instruments",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Yasargil",
     "refNumbers": [
       "18-523-06-01",
@@ -35885,7 +35885,7 @@ export const products = [
       261,
       263
     ],
-    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "High-efficiency aspiration tubes and cannulas for maintaining clear surgical sites, with ergonomic suction control valves. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 225,
       "max": 613.5
@@ -35965,8 +35965,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Cannulas",
     "productType": "Suction Tubes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "18-632-12-07",
@@ -35990,7 +35990,7 @@ export const products = [
     "catalogPages": [
       262
     ],
-    "description": "Specialized tubes for fluid irrigation, suction, or gas introduction during delicate surgical procedures. Professional Suction Tubes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Specialized tubes for fluid irrigation, suction, or gas introduction during delicate surgical procedures. Professional Suction Tubes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 271.5
@@ -36071,8 +36071,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Needle Holders",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hudson",
     "refNumbers": [
       "22-152-01-07",
@@ -36087,7 +36087,7 @@ export const products = [
     "catalogPages": [
       274
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Needle Holders manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Needle Holders manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 450,
       "max": 485
@@ -36167,8 +36167,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scalpels",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "23-124-08-07",
@@ -36193,7 +36193,7 @@ export const products = [
       275,
       288
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 259.5
@@ -36274,8 +36274,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scalpels",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "23-125-10-07",
@@ -36300,7 +36300,7 @@ export const products = [
       276,
       277
     ],
-    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Precision-honed cutting instruments. Offers superior tactile response and clean, smooth tissue separation. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 264
@@ -36380,8 +36380,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Rongeurs",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "23-132-04-04",
@@ -36407,7 +36407,7 @@ export const products = [
       279,
       284
     ],
-    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 495,
       "max": 610.5
@@ -36488,8 +36488,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "23-136-02-07",
@@ -36521,7 +36521,7 @@ export const products = [
       290,
       291
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 510,
       "max": 790
@@ -36601,8 +36601,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Rongeurs",
     "productType": "Chisels",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "37-593-16-07",
@@ -36626,7 +36626,7 @@ export const products = [
     "catalogPages": [
       285
     ],
-    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Chisels manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Heavy-duty bone-cutting forceps designed for gouging out bone, especially in neurosurgery, laminectomy, and spinal procedures. Professional Chisels manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 525,
       "max": 556.5
@@ -36707,8 +36707,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Curettes",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Scoville",
     "refNumbers": [
       "23-280-40-04",
@@ -36739,7 +36739,7 @@ export const products = [
       298,
       299
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 240,
       "max": 625
@@ -36819,8 +36819,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Curettes",
     "productType": "Osteotomes",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Volkmann",
     "refNumbers": [
       "23-280-40-04",
@@ -36851,7 +36851,7 @@ export const products = [
       298,
       299
     ],
-    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Sharp scraping instruments designed for removing tissue debris or growths in sterile surgical procedures. Professional Osteotomes manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 535
@@ -36932,8 +36932,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Adson",
     "refNumbers": [
       "23-400-01-07",
@@ -36976,7 +36976,7 @@ export const products = [
       318,
       319
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 465,
       "max": 920
@@ -37056,8 +37056,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Collin",
     "refNumbers": [
       "23-400-01-07",
@@ -37100,7 +37100,7 @@ export const products = [
       318,
       319
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 480,
       "max": 935
@@ -37181,8 +37181,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Cushing",
     "refNumbers": [
       "23-400-01-07",
@@ -37225,7 +37225,7 @@ export const products = [
       318,
       319
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 495,
       "max": 950
@@ -37305,8 +37305,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Farabeuf",
     "refNumbers": [
       "23-400-01-07",
@@ -37349,7 +37349,7 @@ export const products = [
       318,
       319
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 510,
       "max": 965
@@ -37430,8 +37430,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hajek",
     "refNumbers": [
       "23-400-01-07",
@@ -37474,7 +37474,7 @@ export const products = [
       318,
       319
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 525,
       "max": 980
@@ -37554,8 +37554,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Raspatories",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Langenbeck",
     "refNumbers": [
       "23-400-01-07",
@@ -37598,7 +37598,7 @@ export const products = [
       318,
       319
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Raspatories manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 540,
       "max": 995
@@ -37679,8 +37679,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Beyer",
     "refNumbers": [
       "23-777-01-07",
@@ -37716,7 +37716,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 351
@@ -37796,8 +37796,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Gigli",
     "refNumbers": [
       "23-777-01-07",
@@ -37833,7 +37833,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 366
@@ -37914,8 +37914,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Hartmann",
     "refNumbers": [
       "23-777-01-07",
@@ -37951,7 +37951,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 381
@@ -38031,8 +38031,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Jansen",
     "refNumbers": [
       "23-777-01-07",
@@ -38068,7 +38068,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 165,
       "max": 396
@@ -38149,8 +38149,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Leksell",
     "refNumbers": [
       "23-777-01-07",
@@ -38186,7 +38186,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 180,
       "max": 411
@@ -38266,8 +38266,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Liston",
     "refNumbers": [
       "23-777-01-07",
@@ -38303,7 +38303,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 426
@@ -38384,8 +38384,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Olivecrona",
     "refNumbers": [
       "23-777-01-07",
@@ -38421,7 +38421,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 441
@@ -38501,8 +38501,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Raney",
     "refNumbers": [
       "23-777-01-07",
@@ -38538,7 +38538,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 120,
       "max": 351
@@ -38619,8 +38619,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille",
     "refNumbers": [
       "23-777-01-07",
@@ -38656,7 +38656,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 135,
       "max": 366
@@ -38736,8 +38736,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Stille-Luer",
     "refNumbers": [
       "23-777-01-07",
@@ -38773,7 +38773,7 @@ export const products = [
       331,
       332
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 150,
       "max": 381
@@ -38854,8 +38854,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Olivecrona",
     "refNumbers": [
       "24-683-24-07",
@@ -38881,7 +38881,7 @@ export const products = [
       334,
       335
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 495,
       "max": 537
@@ -38961,8 +38961,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Bone Rongeurs",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Penfield",
     "refNumbers": [
       "24-683-24-07",
@@ -38988,7 +38988,7 @@ export const products = [
       334,
       335
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Bone Rongeurs manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Bone Rongeurs manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 510,
       "max": 552
@@ -39069,8 +39069,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Forceps",
     "productType": "Bipolar Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Pean",
     "refNumbers": [
       "80-983-12-04",
@@ -39098,7 +39098,7 @@ export const products = [
       346,
       347
     ],
-    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bipolar Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Engineered for precision grasping and manipulating delicate tissues. Features high-quality surgical stainless steel construction with non-slip grips. Professional Bipolar Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 195,
       "max": 426
@@ -39178,8 +39178,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Scissors",
     "productType": "Bipolar Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "Pean",
     "refNumbers": [
       "80-572-13-04",
@@ -39197,7 +39197,7 @@ export const products = [
       344,
       345
     ],
-    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Bipolar Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Ultra-sharp surgical cutting edges designed for minimal tissue trauma. Tempered steel for long-lasting edge retention. Professional Bipolar Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 210,
       "max": 259
@@ -39278,8 +39278,8 @@ export const products = [
     "catalog": "neurosurgery",
     "category": "Bone Instruments",
     "productType": "Bipolar Forceps",
-    "brand": "KLS Martin",
-    "manufacturer": "KLS Martin Group",
+    "brand": "IMPL",
+    "manufacturer": "IMPL Group",
     "eponymousName": "",
     "refNumbers": [
       "11-226-16-07",
@@ -39301,7 +39301,7 @@ export const products = [
       364,
       368
     ],
-    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Bipolar Forceps manufactured under strict quality standards by KLS Martin Group. Featuring exceptional balance and ergonomic comfort.",
+    "description": "Robust surgical tools designed for cutting, shaping, and holding bone tissue. Tempered for heavy orthopedic and neurological use. Professional Bipolar Forceps manufactured under strict quality standards by IMPL Group. Featuring exceptional balance and ergonomic comfort.",
     "priceRange": {
       "min": 450,
       "max": 9637.5

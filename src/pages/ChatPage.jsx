@@ -83,7 +83,7 @@ const ChatPage = () => {
     {
       id: 'welcome-1',
       sender: 'bot',
-      text: "Hello! I'm the KLS Martin Inventory Assistant. What surgical instruments do you need to find today?",
+      text: "Hello! I'm the IMPL Inventory Assistant. What surgical instruments do you need to find today?",
       products: []
     }
   ]);
@@ -308,7 +308,7 @@ Primary REF: ${matchedRef}
 
 Description: ${description}
 
-I have successfully matched this clinical tool with the active KLS Martin catalog. View the real-time stock levels, variants, and pricing below.`;
+I have successfully matched this clinical tool with the active IMPL catalog. View the real-time stock levels, variants, and pricing below.`;
 
       // Stream text locally
       const words = fullText.split(' ');
@@ -326,7 +326,7 @@ I have successfully matched this clinical tool with the active KLS Martin catalo
     // If there is an image, we send the prompt to identify it
     let finalPrompt = text;
     if (imgData) {
-      finalPrompt = text ? `${text} (Image attached)` : "Analyze this attached surgical instrument image. Identify the tool name, describe it, and specify its catalog ref number or catalog ID from the KLS Martin inventory database.";
+      finalPrompt = text ? `${text} (Image attached)` : "Analyze this attached surgical instrument image. Identify the tool name, describe it, and specify its catalog ref number or catalog ID from the IMPL inventory database.";
     }
 
     let content = finalPrompt;
@@ -460,7 +460,7 @@ I have successfully matched this clinical tool with the active KLS Martin catalo
       const scanInterval = setInterval(async () => {
         progress += 4;
         if (progress > 20) status = 'Processing image geometry and edge contrasts...';
-        if (progress > 50) status = 'Matching features to KLS Martin database...';
+        if (progress > 50) status = 'Matching features to IMPL database...';
         if (progress > 85) status = 'Verifying product catalog matches...';
         
         if (progress >= 100) {
@@ -623,7 +623,7 @@ I have successfully matched this clinical tool with the active KLS Martin catalo
             <Send size={20} />
           </button>
         </form>
-        <div className="chat-footer-text">KLS Martin NLP Assistant can make mistakes. Check inventory levels.</div>
+        <div className="chat-footer-text">IMPL NLP Assistant can make mistakes. Check inventory levels.</div>
       </div>
     </div>
   );

@@ -62,7 +62,7 @@ const LoginPage = () => {
             <Shield size={32} color="white" />
           </div>
           <h1 style={{ fontFamily: 'var(--font-display)', fontSize: '1.75rem', fontWeight: 800, margin: '0 0 0.5rem 0' }}>
-            KLS Martin
+            IMPL
           </h1>
           <p style={{ color: 'var(--text-muted)', fontSize: '0.9rem' }}>
             Biomedical Logistics & Inventory System

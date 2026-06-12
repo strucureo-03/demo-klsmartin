@@ -38,7 +38,7 @@ const ProductPage = () => {
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', gap: '1rem' }}>
         <HelpCircle size={64} style={{ color: 'var(--text-muted)', opacity: 0.5 }} />
         <h2>Instrument Not Found</h2>
-        <p style={{ color: 'var(--text-secondary)' }}>The requested surgical instrument does not exist in KLS Martin's parsed catalog.</p>
+        <p style={{ color: 'var(--text-secondary)' }}>The requested surgical instrument does not exist in IMPL's parsed catalog.</p>
         <Link to="/" className="scan-action-btn" style={{ padding: '0.6rem 1.2rem' }}>Back to Dashboard</Link>
       </div>
     );

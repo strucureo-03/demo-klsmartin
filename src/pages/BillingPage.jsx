@@ -23,7 +23,7 @@ const BillingPage = () => {
     // Header
     doc.setFontSize(22);
     doc.setTextColor(14, 165, 233); // Brand Blue
-    doc.text('KLS Martin Group', 14, 20);
+    doc.text('IMPL Group', 14, 20);
     
     doc.setFontSize(10);
     doc.setTextColor(100);
@@ -73,7 +73,7 @@ const BillingPage = () => {
     // Footer
     doc.setFontSize(9);
     doc.setTextColor(150);
-    doc.text('Thank you for choosing KLS Martin Group.', 14, 280);
+    doc.text('Thank you for choosing IMPL Group.', 14, 280);
 
     // Download
     const filename = `KLS_Invoice_${poNumber ? poNumber : Date.now()}.pdf`;

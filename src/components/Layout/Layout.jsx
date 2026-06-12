@@ -34,7 +34,7 @@ const Layout = () => {
           
           <div className="mobile-logo" onClick={() => navigate('/')}>
             <Activity size={20} color="var(--accent-primary)" />
-            <span>KLS Martin</span>
+            <span>IMPL</span>
           </div>
         </div>
 

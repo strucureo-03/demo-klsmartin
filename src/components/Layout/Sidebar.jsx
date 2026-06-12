@@ -11,7 +11,7 @@ const Sidebar = () => {
       <div>
         <div className="sidebar-logo">
           <Activity className="sidebar-logo-icon" />
-          <span className="sidebar-logo-text">KLS Martin</span>
+          <span className="sidebar-logo-text">IMPL</span>
         </div>
         
         <nav className="sidebar-nav">

@@ -381,7 +381,7 @@ const ScanPage = () => {
               <div>
                 <h3 style={{ fontSize: '1.1rem', fontWeight: 700 }}>Barcode Verification Failure</h3>
                 <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginTop: '0.25rem', maxWidth: '380px' }}>
-                  The code <strong>"{scanResult.rawCode}"</strong> does not map to any active GTIN, serial number, or catalog REF code in the KLS Martin inventory system.
+                  The code <strong>"{scanResult.rawCode}"</strong> does not map to any active GTIN, serial number, or catalog REF code in the IMPL inventory system.
                 </p>
               </div>
               <button 

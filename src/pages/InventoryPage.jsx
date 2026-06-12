@@ -14,8 +14,8 @@ const InventoryPage = () => {
   // Detailed Form State
   const [formData, setFormData] = useState({
     name: '',
-    brand: 'KLS Martin',
-    manufacturer: 'KLS Martin Group',
+    brand: 'IMPL',
+    manufacturer: 'IMPL Group',
     catalog: 'general-surgery',
     category: '',
     description: '',
@@ -33,7 +33,7 @@ const InventoryPage = () => {
     setIsEditing(false);
     setEditId(null);
     setFormData({
-      name: '', brand: 'KLS Martin', manufacturer: 'KLS Martin Group', 
+      name: '', brand: 'IMPL', manufacturer: 'IMPL Group', 
       catalog: 'general-surgery', category: '', description: '',
       variants: [{ refNumber: '', size: '', price: 0, quantity: 0 }]
     });

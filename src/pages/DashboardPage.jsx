@@ -25,7 +25,7 @@ const DashboardPage = () => {
     <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
       <div className="page-header">
         <h1 className="page-title">Biomedical Inventory Hub</h1>
-        <p className="page-subtitle">KLS Martin Surgical Instrument Availability & Tracking System</p>
+        <p className="page-subtitle">IMPL Surgical Instrument Availability & Tracking System</p>
       </div>
 
       {/* KPI Stats Cards */}
